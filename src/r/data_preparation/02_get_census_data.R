@@ -9,7 +9,7 @@ options(tigris_use_cache = TRUE)
 
 census_year = 2022
 # Set your Census API key
-census_api_key("728083e8ebb522935279c284a900a4cd9d491f12")
+census_api_key("")
 
 # Define the list of variables
 variables <- c(
